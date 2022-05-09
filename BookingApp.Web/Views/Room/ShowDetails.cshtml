@@ -1,0 +1,33 @@
+﻿@model BookingSystem.BLL.ViewModels.BookRoom
+
+@{
+    ViewData["Title"] = "ShowDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="room-details" style="padding:3% 7% 0 7%">
+    <div class="details row">
+        <div class="col-lg-6">
+            <img src="~/images/room.jpg" style="width:100%" />
+        </div>
+        <div class="col-lg-6" style="padding:1%">
+
+            <p><span>Branch: </span><span id="bId" roomid="@Model..Id">@Model.RoomData.Branch.Name</span></p>
+            <p><span>Description: </span>@Model.RoomData.Branch.ShortDescription</p>
+            <p><span>Room Type: </span><span id="roomType">@Model.RoomData.Type.Type</span></p>
+            <p><span>Night Price: </span><span id="roomPrice">@Model.RoomData.Type.PricePerNight</span><span>EGP</span></p>
+            <p><span>Total Price: </span><span id="total-price">@Model.RoomData.Type.PricePerNight</span></p>
+            
+            <form asp-action="Booking" asp-controller="UserRoom" method="post">
+                <input type="number" asp-for="UserRoomsData.NightNo" class="form-control" />
+                @*<input type="number" asp-for="UserRoomsData.TotalPrice" class="form-control" />*@
+                <input type="hidden" asp-for="RoomData.Id" class="form-control" />
+                <input type="hidden" asp-for="RoomData.Type.PricePerNight" class="form-control" />
+                <br />
+                <button type="submit" class="btn btn-primary" style="color:#FFF;background-color:orange">Book Now</button>
+            </form>
+            
+        </div>
+    </div>
+</section>

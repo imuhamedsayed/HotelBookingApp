@@ -1,0 +1,327 @@
+﻿++Solution 'BookingSystem' ‎(6 of 6 projects)
+++BookingApp.DataAccess
+++Dependencies
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:>231
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:>177
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:>30
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:>653
+++Analyzers
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:analyzers
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:analyzers
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:analyzers
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:analyzers
+++Frameworks
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:frameworks
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:frameworks
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:frameworks
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:frameworks
+++Packages
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:packages
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:packages
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:packages
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:packages
+++Projects
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:projects
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:projects
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:projects
+++Repository
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repository\
+++IRepository
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repository\irepository\
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repositoryweb\irepository\
+++IHotelRepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repository\irepository\ihotelrepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repositoryweb\irepository\ihotelrepository.cs
+++IUserRepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repository\irepository\iuserrepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repositoryweb\irepository\iuserrepository.cs
+++HotelRepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repository\hotelrepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repositoryweb\hotelrepository.cs
+++UserRepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repository\userrepository.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repositoryweb\userrepository.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NETCore.App
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\microsoft.netcore.app
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\microsoft.netcore.app
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\microsoft.netcore.app
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\microsoft.netcore.app
+++Microsoft.Extensions.Http (6.0.0)
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:>2842
+++Newtonsoft.Json (13.0.1)
+++BookingApp.Models
+++Hotel.cs
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\entity\hotel.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\viewmodels\hotel.cs
+++User.cs
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\entity\user.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\viewmodels\user.cs
+++BookingSystem.Models
+++ViewModels
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\viewmodels\
+++AuthModel.cs
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\viewmodels\authmodel.cs
+++BookingSystem.DataAccess
+++Migrations
+++20220507121710_AddUsersTable.cs
+++20220507121710_AddUsersTable.Designer.cs
+++20220507130540_AddHotelsTable.cs
+++20220507130540_AddHotelsTable.Designer.cs
+++ApplicationDbContextModelSnapshot.cs
+++ApplicationDbContext.cs
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\databasecontext\applicationdbcontext.cs
+++AppSettings.cs
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\appsettings.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.16)
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:>278
+++Microsoft.EntityFrameworkCore.Tools (5.0.16)
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:>280
+++BookingSystem.API
+i:{00000000-0000-0000-0000-000000000000}:BookingSystem.API
+++Connected Services 
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:>31
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:>654
+++Properties
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\properties\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\properties\
+++Controllers
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\controllers\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\controllers\
+++HotelsController.cs
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\controllers\hotelscontroller.cs
+++UsersController.cs
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\controllers\userscontroller.cs
+++appsettings.Development.json
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\appsettings.development.json
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\appsettings.development.json
+++appsettings.json
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\appsettings.json
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\appsettings.json
+++ConfigureSwaggerOptions.cs
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\configureswaggeroptions.cs
+++Program.cs
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\program.cs
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\program.cs
+++Startup.cs
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\startup.cs
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\startup.cs
+++No service dependencies discovered
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:>32
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:>655
+++launchSettings.json
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\properties\launchsettings.json
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\properties\launchsettings.json
+++Microsoft.AspNetCore.Analyzers
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem\microsoft.aspnetcore.app
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.16)
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:>475
+++Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer (5.0.0)
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:>477
+++Microsoft.EntityFrameworkCore.Design (5.0.16)
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:>286
+++Swashbuckle.AspNetCore (5.6.3)
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:>51
+++BookingApp.Web
+i:{00000000-0000-0000-0000-000000000000}:BookingApp.Web
+++wwwroot
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\
+++AccountController.cs
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\controllers\accountcontroller.cs
+++HomeController.cs
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\controllers\homecontroller.cs
+++HotelController.cs
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\controllers\hotelcontroller.cs
+++Models
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\models\
+++Views
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\
+++Account
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\account\
+++Login.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\account\login.cshtml
+++Register.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\account\register.cshtml
+++Home
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\home\
+++Index.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\home\index.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\hotel\index.cshtml
+++Privacy.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\home\privacy.cshtml
+++Hotel
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\hotel\
+++Shared
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\shared\
+++_Layout.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\views\_viewstart.cshtml
+++SD.cs
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\sd.cs
+++css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\css\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\css\
+++js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\js\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\js\
+++lib
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\
+++favicon.ico
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\favicon.ico
+++ErrorViewModel.cs
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\models\errorviewmodel.cs
+++Microsoft.CodeAnalysis.Analyzers
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.12)
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:>666
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:>891
+++site.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\css\site.css
+++site.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\js\site.js
+++bootstrap
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\
+++jquery
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery\dist\
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery\license.txt
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\js\bootstrap.min.js
+++jquery.min.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++libman.json
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingapp.web\libman.json
+++BookingSystem.DAL
+i:{00000000-0000-0000-0000-000000000000}:BookingSystem.DAL
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\bookingsystem.dal.csproj
+++NewFolder
+++Entity
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\entity\
+++DatabaseContext
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.dataaccess\databasecontext\
+++BookingSystem.BLL
+i:{00000000-0000-0000-0000-000000000000}:BookingSystem.BLL
+i:{982bedd8-e55d-4b9c-abb7-bdccb6420952}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\bookingsystem.bll.csproj
+i:{9a20a775-844e-4e32-a082-a11b8910ca1c}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\bookingsystem.bll.csproj
+++Model
+++RepositoryWeb
+i:{0819fbff-a6d4-4a3b-b3ce-ea53372f5a69}:c:\users\moham\onedrive\desktop\bookingsystem\bookingsystem.models\repositoryweb\
+++Solution 'BookingSystem' ‎(5 of 5 projects)
+++Solution 'BookingSystem' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:BookingSystem.sln
+++20220507161527_AddRequiredTables.cs
+++20220507161527_AddRequiredTables.Designer.cs
+++Microsoft.AspNetCore.Identity (2.2.0)
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.16)
+i:{817c654b-7707-4413-b796-2e2d71f161f0}:>4474
+++20220507162336_AddRequiredTables.cs
+++20220507162336_AddRequiredTables.Designer.cs

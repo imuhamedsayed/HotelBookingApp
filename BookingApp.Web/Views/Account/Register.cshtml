@@ -1,0 +1,25 @@
+﻿@model BookingSystem.BLL.ViewModels.User
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="row justify-content-center my-5">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="pb-3">Register</h4>
+                <form method="post">
+                    <div class="form-group">
+                        <input asp-for="Username" class="form-control" type="text" placeholder="Username" />
+                    </div>
+                    <div class="form-group">
+                        <input asp-for="Password" class="form-control" type="password" placeholder="Password" />
+                    </div>
+                    <hr />
+                    <button class="btn btn-primary" type="submit" value="Submit">Register</button>
+                    <a class="btn btn-success" asp-action="Login">Login</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

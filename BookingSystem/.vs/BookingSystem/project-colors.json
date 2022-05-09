@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "982bedd8-e55d-4b9c-abb7-bdccb6420952": {
+      "ProjectGuid": "982bedd8-e55d-4b9c-abb7-bdccb6420952",
+      "DisplayName": "BookingSystem.API",
+      "ColorIndex": 0
+    },
+    "817c654b-7707-4413-b796-2e2d71f161f0": {
+      "ProjectGuid": "817c654b-7707-4413-b796-2e2d71f161f0",
+      "DisplayName": "BookingSystem.DAL",
+      "ColorIndex": 1
+    },
+    "0819fbff-a6d4-4a3b-b3ce-ea53372f5a69": {
+      "ProjectGuid": "0819fbff-a6d4-4a3b-b3ce-ea53372f5a69",
+      "DisplayName": "BookingSystem.BLL",
+      "ColorIndex": 2
+    },
+    "9a20a775-844e-4e32-a082-a11b8910ca1c": {
+      "ProjectGuid": "9a20a775-844e-4e32-a082-a11b8910ca1c",
+      "DisplayName": "BookingApp.Web",
+      "ColorIndex": 3
+    },
+    "a9a39f44-19f1-4e21-8b67-196592e7472b": {
+      "ProjectGuid": "a9a39f44-19f1-4e21-8b67-196592e7472b",
+      "DisplayName": "BookingApp.Models",
+      "ColorIndex": 4
+    },
+    "fec3c6e5-567a-40fd-8915-ab7467d431f4": {
+      "ProjectGuid": "fec3c6e5-567a-40fd-8915-ab7467d431f4",
+      "DisplayName": "BookingApp.DataAccess",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
